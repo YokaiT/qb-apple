@@ -52,5 +52,9 @@ An Apple store robbery for FiveM using QBCore Framework.
         item = "beats",
         price = math.random(50,100)
     },
+     [14] = {
+        item = "watch",
+        price = math.random(50,100)
+    },
 
 
