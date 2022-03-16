@@ -62,4 +62,4 @@ An Apple store robbery for FiveM using QBCore Framework.
     },
 
 #
-MLO used: https://forum.cfx.re/t/mlo-paid-apple-store/4817183, 
+MLO used: https://forum.cfx.re/t/mlo-paid-apple-store/4817183
