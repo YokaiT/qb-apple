@@ -18,6 +18,7 @@ An Apple store robbery for FiveM using QBCore Framework.
 # Add item images to your inventory images example (qb-inventory > html > images)
 
 
+
 # Add the following code to qb-pawnshop > config.lua (adjust pricing to suit your economy) 
     [5] = {
         item = "tablet",
@@ -60,4 +61,4 @@ An Apple store robbery for FiveM using QBCore Framework.
         price = math.random(50,100)
     },
 
-
+MLO Used visit https://forum.cfx.re/t/mlo-paid-apple-store/4817183
