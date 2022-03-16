@@ -5,12 +5,12 @@ An Apple store robbery for FiveM using QBCore Framework.
 
 # Add the following code to your shared items.lua in qb-core, 
 
--- Apple Store Robbery
-['airpods'] 				 	 = {['name'] = 'Air Pods', 			  	     	['label'] = 'Air Pods', 			    ['weight'] = 1500, 		['type'] = 'item', 		['image'] = 'airpods.png', 			    ['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Apple Airpods'},
-['appletv'] 				     = {['name'] = 'Apple TV', 			  	  	    ['label'] = 'Apple TV', 			    ['weight'] = 1500, 		['type'] = 'item', 		['image'] = 'appletv.png', 		        ['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'AppleTV'},
-['beats'] 				 	     = {['name'] = 'Beats Headset', 			  	['label'] = 'Golden Chain', 			['weight'] = 1500, 		['type'] = 'item', 		['image'] = 'beats.png', 			    ['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Beats wireless headset'},
-['macbook'] 				     = {['name'] = 'Mac Book', 			  	     	['label'] = 'Mac Book', 			    ['weight'] = 2000, 		['type'] = 'item', 		['image'] = 'macbook.png', 		        ['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Apple Macbook'},
-['ipad'] 			 	 	     = {['name'] = 'IPad', 			  			    ['label'] = 'IPad', 				    ['weight'] = 7000, 	    ['type'] = 'item', 		['image'] = 'ipad.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Apple iPad'},
+}
+
+
+
+
+{
 
 # Add item images to your inventory images example (qb-inventory > html > images)
 
