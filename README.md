@@ -61,5 +61,5 @@ An Apple store robbery for FiveM using QBCore Framework.
         price = math.random(50,100)
     },
 
+
 MLO used: https://forum.cfx.re/t/mlo-paid-apple-store/4817183, 
-easily change vector locations to preferred mlo
